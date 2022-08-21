@@ -1,4 +1,4 @@
-# image-captioning-keras-resnet
+# image-captioning-generator
 run 
 <br>
 
